@@ -1,1 +1,1 @@
-# django-python-group
+# django_guides
